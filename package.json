@@ -8,9 +8,9 @@
   },
   "main": "./auto-updater",
   "dependencies": {
-    "adm-zip": "^0.4.7",
-    "node-promise": "^0.5.12",
-    "underscore": "^1.8.3"
+    "adm-zip": "^0.4.16",
+    "node-promise": "^0.5.14",
+    "underscore": "^1.10.2"
   },
   "keywords": [
     "auto-updater",
